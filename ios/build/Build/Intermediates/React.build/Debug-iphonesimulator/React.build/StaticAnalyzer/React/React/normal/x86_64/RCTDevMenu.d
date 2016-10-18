@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Modules/RCTDevMenu.m \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTWebSocketProxy.h \
+  /Users/crollins/code/react/TipCalc/node_modules/react-native/React/Base/RCTWebSocketProxyDelegate.h
